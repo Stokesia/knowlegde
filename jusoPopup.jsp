@@ -1,6 +1,6 @@
 /*
- 파일명 : jusoPopup.html
- 내  용 : 팝업API 호출 소스(jusoPopup.html ↔ 도로명주소 팝업API )
+ 파일명 : jusoPopup.jsp
+ 내  용 : 팝업API 호출 소스(jusoPopup.jsp ↔ 도로명주소 팝업API )
 */
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
